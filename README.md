@@ -1,2 +1,2 @@
-# Tinkie_Technical-Test-
+# Tinkie_Technical_Test
 Tinkiet Internship
