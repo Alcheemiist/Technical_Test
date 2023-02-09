@@ -12,10 +12,10 @@
   
 the solution to find my friend's car on this infinite highway, mark the position of my car as **position 0** and follow the next process:<br>
 
- - 1. Choose a direction: Pick either forward or backward and start driving in that direction.
- - 2. Drive in a set direction and turn back: Drive for a fixed amount of time and speed for a distance X. Then, turn around and drive back the same distance until reaching position 0.
- - 3. Alternate directions: Repeat step 3, but this time drive in the opposite direction and turn back after reaching same distance X.
- - 4. Increase the distance: Increase the time to cover more distance X by a fixed amount.
+1. Choose a direction: Pick either forward or backward and start driving in that direction.
+2. Drive in a set direction and turn back: Drive for a fixed amount of time and speed for a distance X. Then, turn around and drive back the same distance until reaching position 0.
+3. Alternate directions: Repeat step 3, but this time drive in the opposite direction and turn back after reaching same distance X.
+4. Increase the distance: Increase the time to cover more distance X by a fixed amount.
+- Repeat: Keep repeating steps 2 to 4 until find my friend's car.<br>
 
-Repeat: Keep repeating steps 2 to 4 until find my friend's car.<br>
 By following these steps, i will eventually find the car in a finite amount of time by covering more ground with each iteration.
