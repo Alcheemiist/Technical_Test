@@ -1,0 +1,1 @@
+rm -rf app/backend/uploads/* app/backend/candidates/* ; cd app/backend/ ; npm install ; npm start & ; cd ../frontend/ ; npm install ; npm start & ; echo "App is running on http://localhost:3000"
