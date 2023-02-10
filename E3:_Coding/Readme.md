@@ -1,5 +1,5 @@
 
-## feautures:
+## Features:
     - [x] submit a form {firstname, lastname, email, description, file} from route "/"
     - [x] upload cv pdf or docx to "/backend/uploads" folder
     - [x] save candidate data to json file in "/backend/candidates" folder by special id
